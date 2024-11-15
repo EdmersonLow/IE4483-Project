@@ -1,4 +1,3 @@
-
 # 🌟 Sentiment Analysis of Product Reviews 📚🛍️
 
 This repository contains the implementation of sentiment classification models for analyzing product reviews. We provide two Jupyter Notebooks: one using **FFNN** and the other using **BERT**. Each notebook produces one result file (.csv) during runtime. 🎯
